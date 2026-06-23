@@ -76,10 +76,4 @@ Some important insights discovered:
 - Long-term customers show better retention.
 - Certain payment methods are associated with higher churn rates.
 
----
 
-## How to Run the Project
-
-### Clone the Repository
-```bash
-git clone <your-github-repo-link>
